@@ -41,18 +41,3 @@ By completing this assignment, you will be able to:
 
 - Design and implement tools that support question answering.
   You may use text processing, data retrieval, or other appropriate strategies.
-
-## **Deliverables**
-
-Submit a single **.zip file** containing the following:
-
-- Your project directory, named `campus-companion`, which includes:
-  - All source files
-  - `requirements.txt`
-  - Any supporting data files
-  *(Exclude API keys, compiled files, and virtual environments.)*
-
-- A **report file** (`.pdf` or `.md`) that includes:
-  - **Tools Added:** describe each tool, its purpose, and how it is used
-  - **Prompts Modified:** outline any system or tool prompt changes
-  - **Example Results:** show example user queries and responses
